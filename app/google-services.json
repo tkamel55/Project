@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325640028633",
+    "firebase_url": "https://individualproject-8b972.firebaseio.com",
+    "project_id": "individualproject-8b972",
+    "storage_bucket": "individualproject-8b972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325640028633:android:ff3aa52ea1c4384d9999c8",
+        "android_client_info": {
+          "package_name": "com.example.kamel.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325640028633-e6dpfgdqmd0mvagig1tr9b2sehafudac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNufE_-ou_R-maalTasjxX06aICyg0kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325640028633-e6dpfgdqmd0mvagig1tr9b2sehafudac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

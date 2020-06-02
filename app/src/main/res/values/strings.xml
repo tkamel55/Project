@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">IT Tutor</string>
+    <string name="confirmpass">Confirm Password</string>
+
+    <string name="email_address">Email address</string>
+    <string name="name">Username</string>
+    <string name="password">Password</string>
+    <string name="password2">Confirm Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="reg">Register Now</string>
+    <string name="don_t_remember_password">Don\'t Remember password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_with_admin">Sign in for Teachers</string>
+    <string name="or">or</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_text">Loading...</string>
+
+    <string name="post_title_hint">Title</string>
+    <string name="post_link_hint">Post link</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="Learning">Learning Materials</string>
+    <string name="loading">Loading…</string>
+
+
+    <string name="sets">Sets</string>
+    <string name="add">+</string>
+    <string name="email_required_text">Please provide a valid email address</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="quiz">quiz page</string>
+    <string name="user">Username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration_success">  Success </string>
+
+    <string name="Threads_unsuccessful">Threads retreival unsuccessful</string>
+    <string name="Threads_add_unsuccessful">Threads addition unsuccessful</string>
+    <string name="msg_delete_unsuccessful">Message delete not successful</string>
+    <string name="Threads_delete_unsuccessful">Thread delete not successful</string>
+    <string name="msg_get_unsuccessful">Message retreival notsuccessful</string>
+    <string name="msg_add_unsuccessful">Message addition unsuccessful</string>
+    <string name="emaill_password_message">All fields are mandatory</string>
+    <string name="password_confirm_password_message">Password and Confirm password doesn\'t match</string>
+    <string name="msg_threads">Message Threads</string>
+    <string name="content_desc">imagebutton_cdesc</string>
+    <string name="added_threads_successful">Added threads successfully</string>
+    <string name="delete">delete</string>
+    <string name="replymail">reply</string>
+    <string name="newmail">newMail</string>
+    <string name="logout">logout</string>
+    <string name="usersList">Users</string>
+    <string name="contact_blank">Contact field is blank</string>
+    <string name="sentToast">Sent</string>
+    <string name="to">To:</string>
+    <string name="content_descfdvdsc">Contentesc</string>
+    <string name="sent_button">Send</string>
+    <string name="from">From:</string>
+    <string name="conr">fv</string>
+    <string name="msg_signup">MessageMe! (Sign Up)</string>
+    <string name="inbox">Inbox</string>
+    <string name="readMsg">Read Message</string>
+    <string name="cmpMessage">Compose Message</string>
+
+
+</resources>

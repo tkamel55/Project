@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kamel.project">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:hardwareAccelerated="false"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ReadmsgActivity"></activity>
+        <activity android:name=".SendingMailActivity" />
+        <activity android:name=".AllUserListActivity" />
+        <activity android:name=".VideoDescriptionActivity" />
+        <activity android:name=".VideoInsideActivity" />
+        <activity android:name=".VideoPlayerActivity" />
+        <activity android:name=".EditVideoActivity" />
+        <activity android:name=".AddVideoActivity" />
+        <activity android:name=".AddVideoInsideCategoryActivity" />
+        <activity android:name=".VideoActivity" />
+        <activity android:name=".AdminPage"
+            />
+        <activity android:name=".pdfActivity" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".ScoreActivity" />
+        <activity android:name=".SetActivity" />
+        <activity android:name=".CategoryAdmin" />
+        <activity android:name=".AdminSetActivity" />
+        <activity android:name=".addquestion" />
+        <activity android:name=".AdminQuestionActivity" />
+        <activity
+            android:name=".AdminRegister"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".AdminLogin"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Register"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".Home" />
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".PostDetailActivity" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+    </application>
+
+
+
+</manifest>
